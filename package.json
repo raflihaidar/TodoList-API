@@ -1,0 +1,17 @@
+{
+  "name": "todo-list",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hmr": "nodemon index.js",
+    "nodemon": "npm run hmr"
+  },
+  "author": "Rafli Haidar Nashif",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
